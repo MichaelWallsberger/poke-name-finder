@@ -1,0 +1,42 @@
+[
+    {
+        "generation": 1,
+        "name": "RB",
+        "backgroundStyle": "linear-gradient(348deg, rgba(255,0,0,1) 0%, rgba(255,255,255,1) 50%, rgba(0,0,255,1) 100%)"
+    },
+    {
+        "generation": 2,
+        "name": "GS",
+        "backgroundStyle": "linear-gradient(348deg, rgba(192,192,192,1) 0%, rgba(255,255,255,1) 50%, rgba(255,215,0,1) 100%)"
+    },
+    {
+        "generation": 3,
+        "name": "RS",
+        "backgroundStyle": "linear-gradient(348deg, rgba(15,82,186,1) 0%, rgba(255,255,255,1) 50%, rgba(224,17,95,1) 100%)"
+    },
+    {
+        "generation": 4,
+        "name": "DP",
+        "backgroundStyle": "linear-gradient(348deg, rgba(234,244,200,1) 0%, rgba(255,255,255,1) 50%, rgba(185,242,255,1) 100%)"
+    },
+    {
+        "generation": 5,
+        "name": "BW",
+        "backgroundStyle": "linear-gradient(348deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 100%)"
+    },
+    {
+        "generation": 6,
+        "name": "XY",
+        "backgroundStyle": "linear-gradient(348deg, rgba(170,10,51,1) 0%, rgba(255,255,255,1) 50%, rgba(131,255,218,1) 100%)"
+    },
+    {
+        "generation": 7,
+        "name": "SM",
+        "backgroundStyle": "linear-gradient(348deg, rgba(12,9,84,1) 0%, rgba(255,255,255,1) 50%, rgba(255,222,131,1) 100%)"
+    },
+    {
+        "generation": 8,
+        "name": "SS",
+        "backgroundStyle": "linear-gradient(348deg, rgba(204,243,255,1) 0%, rgba(255,255,255,1) 50%, rgba(255,190,205,1) 100%)"
+    }
+]
